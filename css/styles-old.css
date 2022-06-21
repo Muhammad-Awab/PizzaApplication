@@ -1,0 +1,63 @@
+.row-header{
+margin: 0px auto;
+padding: 0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px;
+}
+.footer{
+    background-color: aqua;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin: 0px auto;
+    background: #9575CD;
+    color: rgb(31, 15, 15);
+}
+.address{
+    font-size: 80px;
+    margin: auto;
+    color: #9575CD;
+}
+.bttn{
+    /* align-items: center; */
+    /* justify-content: center; */
+    font-size: 63px;
+}
+.link{
+   text-decoration: none;
+   color: black;
+
+}
+.radio{
+    display: flex;
+}
+.dat{
+    display: flex;
+
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+/* .R-B{
+padding: 23px;
+} */
+.table{
+    height: 22vh;
+}
+/* .slide{
+    padding: 279px;
+} */
+
+#bttn1{
+    padding: 26vh 0px 0px 59vw;
+}
